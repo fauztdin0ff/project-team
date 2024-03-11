@@ -1,0 +1,35 @@
+@font-face {
+  font-family: Overpass;
+  font-display: swap;
+  src: url("../fonts/Overpass-Bold.woff2") format("woff2"), url("../fonts/Overpass-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: Overpass;
+  font-display: swap;
+  src: url("../fonts/Overpass-Light.woff2") format("woff2"), url("../fonts/Overpass-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: Overpass;
+  font-display: swap;
+  src: url("../fonts/Overpass-Medium.woff2") format("woff2"), url("../fonts/Overpass-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: Overpass;
+  font-display: swap;
+  src: url("../fonts/Overpass-Regular.woff2") format("woff2"), url("../fonts/Overpass-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: Overpass;
+  font-display: swap;
+  src: url("../fonts/Overpass-Black.woff2") format("woff2"), url("../fonts/Overpass-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
